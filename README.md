@@ -1,5 +1,9 @@
 # Terps-MSIS
-A DBMS solution for maintaing and tracking relevant alumni information. Provides an effective way to network to the current students.
+Mission Statement:
+To provide our current MSIS students with relevant alumni contact information, their work and career paths.
+
+Mission Objective:
+Aimed to provide our users with relevant alumni information all in one place. Users have access to insightful metrics like number of alumni working in a particular company, companies hiring the most alumni, etc. All this information will be readily accessible to the users with an easy to use interface.
 
 Project Structure
 
